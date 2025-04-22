@@ -5,6 +5,7 @@ import org.openqa.selenium.WebElement;
 
 public class BaseAdac {
 	
+	//sample check
 	public static WebDriver driver;
 
 	public static void inputText(WebElement element, String data) {
